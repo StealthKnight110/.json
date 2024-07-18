@@ -1,0 +1,13 @@
+{
+  "game": "Hydra",
+  "settings": {
+    "resolution": "1920x1080",
+    "fullscreen": true,
+    "volume": 75
+  },
+  "user": {
+    "username": "pedro henrique",
+    "email": "decarvalhopedro2012@gmail.com"
+  }
+}
+config.json
